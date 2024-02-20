@@ -48,4 +48,4 @@
 - git branch -m nombre-antiguo nombre-nuevo
 
 ## Comando para cambiar de version 
-- git checkout <Id del commit o nombre de la rama>
+- git checkout <Id del commit y nombre de la rama para volver al presente>
