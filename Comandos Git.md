@@ -42,4 +42,10 @@
 
 ## Comando para listar las versiones de mi proyecto(ver los commits)
 - git log
--git log --oneline
+- git log --oneline
+
+## Comando para cambiar el nombre master
+- git branch -m nombre-antiguo nombre-nuevo
+
+## Comando para cambiar de version 
+- git checkout <Id del commit o nombre de la rama>
