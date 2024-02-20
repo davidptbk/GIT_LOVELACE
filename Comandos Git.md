@@ -18,10 +18,28 @@
 ## Como iniciar Git en un directorio
 - git init
 
+## 
+
 ## Pasos para crear una version de nuestro codigo
 1. Agregar todos los archivos al commit
     - git add .
-2. Tambien puedo agregar un solo archivo
+    Tambien puedo agregar un solo archivo
     - git add index.js
-3. O si solo quiero agregar todos los archivos de una extencion
-    - git add *.css
+    O si solo quiero agregar todos los archivos de una extencion
+    - git add \*.css
+
+2. Tomar la foto del codigo (Crear una nueva version "commit")
+
+- git commit -m "Nombre del commit"
+
+
+
+## Como saber el como estan mis archivos
+- Git status(el arvivo que aparezca verde esta añadido, el rojo esta por fuera);
+- Si un archivo tiene una U es por que se puede perder, osea que no lo he guardado con el git add
+- Si tienen una A es por que ya ha sido añadido
+- Si tiene una M es por que ha sido modificado
+
+## Comando para listar las versiones de mi proyecto(ver los commits)
+- git log
+-git log --oneline
