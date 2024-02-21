@@ -31,7 +31,7 @@
 2. Tomar la foto del codigo (Crear una nueva version "commit")
 
 - git commit -m "Nombre del commit"
-
+- git commit -am "Nombre del commit"
 
 
 ## Como saber el como estan mis archivos
