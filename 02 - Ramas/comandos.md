@@ -10,8 +10,8 @@
 # Comando para cambiar de ramas 
 
 - git checkout nombre_rama_a_mover 
-- git checkout -b nombre_rama_a_mover
-- git switch nombre_rama_a_mover -> ("Se puede crear y mover al mismo tiempo a una rama")
+- git checkout -b nombre_rama_a_mover -> ("Se puede crear y mover al mismo tiempo a una rama")
+- git switch nombre_rama_a_mover 
 
 # Comando para eliminar una rama
 
@@ -20,3 +20,6 @@
 # Comando para cambiar el nombre de una rama  (Se ejecuta en la rama que se este parado)
 
 - git branch -M nuevo_nombre
+
+## Eliminar una rama que no tenia seguimiento
+- git rm --cached index.html
