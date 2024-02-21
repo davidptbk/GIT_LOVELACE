@@ -49,3 +49,10 @@
 
 ## Comando para cambiar de version 
 - git checkout <Id del commit y nombre de la rama para volver al presente>
+
+
+## Para ver todo lo que he hecho ultimamente
+
+- git config --global  alias.lg 'log --oneline',
+- git lg
+<!-- con esto acorto los comandos que le diga con el alias -->
