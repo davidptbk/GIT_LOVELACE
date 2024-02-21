@@ -56,3 +56,10 @@
 - git config --global  alias.lg 'log --oneline',
 - git lg
 <!-- con esto acorto los comandos que le diga con el alias -->
+
+
+<!-- 
+Tengo que instalas estas extenciones
+- Git Graph
+- Git History
+- Git Lens -->
