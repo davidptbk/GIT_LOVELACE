@@ -22,4 +22,4 @@
 - git branch -M nuevo_nombre
 
 ## Eliminar una rama que no tenia seguimiento
-- git rm --cached index.html
+- git rm --cached index.html(o el nombre de mi archivo)
