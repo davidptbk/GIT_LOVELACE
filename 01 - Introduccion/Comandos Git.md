@@ -18,7 +18,8 @@
 ## Como iniciar Git en un directorio
 - git init
 
-## 
+## Para borrar un archivo
+- git rm nombre-del-archivo
 
 ## Pasos para crear una version de nuestro codigo
 1. Agregar todos los archivos al commit
